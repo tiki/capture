@@ -1,0 +1,3 @@
+[submodule "receipt/capacitor"]
+	path = receipt/capacitor
+	url = https://github.com/tiki/capture-receipt-capacitor
