@@ -1,3 +1,9 @@
 [submodule "receipt/capacitor"]
 	path = receipt/capacitor
 	url = https://github.com/tiki/capture-receipt-capacitor
+[submodule "capture-receipt-ios"]
+	path = receipt/ios
+	url = https://github.com/tiki/capture-receipt-ios
+[submodule "capture-receipt-android"]
+	path = receipt/android
+	url = https://github.com/tiki/capture-receipt-android
